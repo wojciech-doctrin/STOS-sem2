@@ -76,8 +76,7 @@ int main(){
             case 0:
                 f0(n, 1);
                 break;
-/*          blablabla
-  
+/*			
 			case 1:
                 f1(n);
                 break;
